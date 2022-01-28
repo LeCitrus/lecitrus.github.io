@@ -1,2 +1,2 @@
 # Website
-Personal website for internships I guess
+Personal website for good internships looks I guess
