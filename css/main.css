@@ -7,5 +7,6 @@ body {background-color: beige;}
   background-color: #333;
 };
 li a:hover {
+  display: inline;
   background-color: #111;
 }
