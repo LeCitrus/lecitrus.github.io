@@ -11,6 +11,7 @@ li {
 }
 li a {
   display: block;
+  padding: 8px;
 }
 li a:hover {
   background-color: #111;
