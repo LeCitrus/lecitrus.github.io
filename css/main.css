@@ -9,10 +9,10 @@ body {background-color: beige;}
 li.navi_bar {
   float: left;
 }
-li a {
+li.navi_bar a {
   display: block;
   padding: 8px;
 }
-li a:hover {
+li.navi_bar a:hover {
   background-color: #111;
 }
