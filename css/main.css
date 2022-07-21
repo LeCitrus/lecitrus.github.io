@@ -16,3 +16,6 @@ li.navi_bar a {
 li.navi_bar a:hover {
   background-color: #111;
 }
+figcaption {
+  margin-bottom: 10px;
+}
